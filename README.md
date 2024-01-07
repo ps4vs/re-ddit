@@ -1,10 +1,10 @@
-## Re/ddit 
+## re/ddit 
 It addresses the common challenge of inefficient scrolling and the distraction of non-relevant threads, refining the Reddit experience breaking language barriers.
 
 TLDR: In your language, For your query, Of your sub-reddit as a interactive podcast.
 
 ### Features
-Intelligent Summarisation: Enter a query, and Re/ddit instantly compiles the most relevant threads, delivering concise, focused summaries including comments.
+Intelligent Summarisation: Enter a query, and re/ddit instantly compiles the most relevant threads, delivering concise, focused summaries including comments.
 Asynchronous Interaction: It allows users to asynchronously create, listen, and store personalised summaries, enhancing the learning experience without the usual distractions.
 Personalised Note-Taking with AI: Get small fine-tuned models to mimic your persona to take notes or comments.
 Customised Summaries: Get small fine-tuned models to mimic the summaries in the way you want.
