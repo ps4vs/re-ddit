@@ -1,4 +1,4 @@
-## re/ddit 
+## re/ddit: Reinventing Reddit
 It addresses the common challenge of inefficient scrolling and the distraction of non-relevant threads, refining the Reddit experience breaking language barriers.
 
 TLDR: In your language, For your query, Of your sub-reddit as a interactive podcast.
